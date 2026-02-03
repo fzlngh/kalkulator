@@ -2,7 +2,7 @@
   "name": "pajil",
   "version": "1.0.0",
   "description": "mujix",
-  "main": "variable.js",
+  "main": "index.html",
   "scripts": {
     "test": "debug",
     "start": "node variable.js"
